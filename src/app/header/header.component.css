@@ -4,6 +4,10 @@
   padding: 12px;
 }
 
+.title {
+  margin-left: 10px;
+}
+
 .example-spacer{
   flex: 1 1 auto;
 }
