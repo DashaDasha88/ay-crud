@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "Pineapples",
+      "category": "Fruits",
+      "date": "2022-01-28T05:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "o hai",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
