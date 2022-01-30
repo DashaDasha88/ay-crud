@@ -8,6 +8,15 @@
       "price": 12,
       "comment": "o hai",
       "id": 1
+    },
+    {
+      "productName": "Tomatoes",
+      "category": "Vegetables",
+      "date": "2022-01-29T05:00:00.000Z",
+      "freshness": "Brand New",
+      "price": 12,
+      "comment": "tomatoes",
+      "id": 2
     }
   ],
   "comments": [
